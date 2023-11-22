@@ -13,6 +13,6 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <MyBody/>
     <About/>
     <MyFooter/>
-    <App/>
+    {/* <App/> */}
   </React.StrictMode>,
 )
